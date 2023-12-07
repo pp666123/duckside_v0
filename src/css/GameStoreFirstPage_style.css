@@ -1,0 +1,41 @@
+#container{
+    margin: 0px;
+    padding: 0px;
+    background-color: #F5F5CC;
+}
+#container{
+    padding: 0px;
+    margin: 0px;
+}
+#container .col-lg-12{
+    display: flex;
+    align-items: center;
+}
+#container #leftSide{
+    flex-grow: 1;
+}
+#container #centerSide{
+    flex-grow: 10;
+}
+#container #rightSide{
+    flex-grow: 1;
+}
+#container ul{    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 30px;
+}
+#storeModal{
+    position: absolute;
+    width: 40%;
+    margin-left: 30%;
+
+}
+#comfirmInfoModal{
+    position: absolute;
+    width: 40%;
+    margin-left: 30%;
+}
+
