@@ -15,7 +15,7 @@
 11. 合作夥伴
 
 # note(2023/12/07)
-因年代久遠，難以上線，準備用nuxt及redux重構。
+因年代久遠，難以上線，準備用next及redux重構。
 
 # 環境安裝
 1. 將你電腦原本的 duckside 改名成 duckside_backup 做為備份
